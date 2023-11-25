@@ -1,6 +1,0 @@
-C:\Users\sanyosharma\source\repos\ADO.DAL.PROJECT\ADO.DAL.PROJECT\bin\Debug\ADO.DAL.PROJECT.dll
-C:\Users\sanyosharma\source\repos\ADO.DAL.PROJECT\ADO.DAL.PROJECT\bin\Debug\ADO.DAL.PROJECT.pdb
-C:\Users\sanyosharma\source\repos\ADO.DAL.PROJECT\ADO.DAL.PROJECT\obj\Debug\ADO.DAL.PROJECT.csproj.AssemblyReference.cache
-C:\Users\sanyosharma\source\repos\ADO.DAL.PROJECT\ADO.DAL.PROJECT\obj\Debug\ADO.DAL.PROJECT.csproj.CoreCompileInputs.cache
-C:\Users\sanyosharma\source\repos\ADO.DAL.PROJECT\ADO.DAL.PROJECT\obj\Debug\ADO.DAL.PROJECT.dll
-C:\Users\sanyosharma\source\repos\ADO.DAL.PROJECT\ADO.DAL.PROJECT\obj\Debug\ADO.DAL.PROJECT.pdb
